@@ -1,0 +1,28 @@
+
+
+SELECT distinct (DIAGNOSIS_CODE||DIAGNOSIS_CODING_TYPE)
+  FROM [OUTCOME_STROKE ISCHAEMIC (2011-2018)];
+
+SELECT distinct (Column7||Column14||Column15)
+  FROM [MEDS_Anti-hypertensive_Dispensed (2013-2018)];
+SELECT distinct (Column7||Column14||Column15)
+  FROM [MEDS_Anti-lipids_Dispensed (2013-2018)];
+SELECT distinct (Column7||Column14||Column15)
+  FROM [MEDS_Anti-Platelet_Dispensed (2013-2018)];
+SELECT distinct (Column7||Column14||Column15)
+  FROM [MEDS_GLP-1 RA_Dispensed (2013-2018)];
+SELECT distinct (Column7||Column14||Column15)
+  FROM [MEDS_Insulin_Dispensed (2013-2018)];
+
+SELECT distinct (Column7||Column16)
+  FROM [MEDS_DM_Prescribed (2013-2018)];
+
+SELECT distinct (DIAGNOSIS_CODE)
+  FROM [VISITS_Admissions (2011-2018)];
+SELECT distinct (DIAGNOSIS_CODE)
+  FROM [VISITS_Admissions_CGH (2011-2018)];
+
+SELECT distinct (DIAGNOSIS_CODE)
+  FROM [VISITS_Emergency department (2011-2018)];
+SELECT distinct (Column8||Column6)
+  FROM [VISITS_Outpatient visits (2013-2018)];
