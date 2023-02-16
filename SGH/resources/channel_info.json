@@ -1,0 +1,318 @@
+{
+    "SURGERY_Bariatric surgery": {
+        "possible_values": [
+            "YES",
+            "NO"
+        ],
+        "values": null
+    },
+    "ETHNICITY": {
+        "possible_values": [
+            "YES",
+            "NO"
+        ],
+        "values": null
+    },
+    "OUTCOME_AMI": {
+        "possible_values": [
+            "YES",
+            "NO"
+        ],
+        "values": null
+    },
+    "VISITS_Outpatient visits": {
+        "possible_values": [
+            "YES",
+            "NO"
+        ],
+        "values": null
+    },
+    "VISITS_Admissions_CGH": {
+        "possible_values": [
+            "YES",
+            "NO"
+        ],
+        "values": null
+    },
+    "VISITS_Emergency department": {
+        "possible_values": [
+            "YES",
+            "NO"
+        ],
+        "values": null
+    },
+    "OUTCOME_STROKE HAEMORRHAGIC": {
+        "possible_values": [
+            "YES",
+            "NO"
+        ],
+        "values": null
+    },
+    "MEDS_GLP-1 RA_Dispensed": {
+        "possible_values": [
+            "YES",
+            "NO"
+        ],
+        "values": null
+    },
+    "MEDS_Anti-lipids_Dispensed": {
+        "possible_values": [
+            "YES",
+            "NO"
+        ],
+        "values": null
+    },
+    "OUTCOME_STROKE ISCHAEMIC": {
+        "possible_values": [
+            "YES",
+            "NO"
+        ],
+        "values": null
+    },
+    "HYPERTENSION": {
+        "possible_values": [
+            "YES",
+            "NO"
+        ],
+        "values": null
+    },
+    "GENDER": {
+        "possible_values": [
+            "YES",
+            "NO"
+        ],
+        "values": null
+    },
+    "PRIMARY_SITE": {
+        "possible_values": [
+            "YES",
+            "NO"
+        ],
+        "values": null
+    },
+    "VISITS_Emergency department_CGH": {
+        "possible_values": [
+            "YES",
+            "NO"
+        ],
+        "values": null
+    },
+    "CODES_SHPWKC_AC_Diagnosis codes": {
+        "possible_values": [
+            "YES",
+            "NO"
+        ],
+        "values": null
+    },
+    "MEDS_Anti-Platelet_Dispensed": {
+        "possible_values": [
+            "YES",
+            "NO"
+        ],
+        "values": null
+    },
+    "MEDS_Oral DM_Dispensed": {
+        "possible_values": [
+            "YES",
+            "NO"
+        ],
+        "values": null
+    },
+    "MEDS_Anti-hypertensive_Dispensed": {
+        "possible_values": [
+            "YES",
+            "NO"
+        ],
+        "values": null
+    },
+    "MEDS_Insulin_Dispensed": {
+        "possible_values": [
+            "YES",
+            "NO"
+        ],
+        "values": null
+    },
+    "SMOKING": {
+        "possible_values": [
+            "YES",
+            "NO"
+        ],
+        "values": null
+    },
+    "VISITS_Admissions": {
+        "possible_values": [
+            "YES",
+            "NO"
+        ],
+        "values": null
+    },
+    "CODES_SNOMED_Diagnosis codes": {
+        "possible_values": [
+            "YES",
+            "NO"
+        ],
+        "values": null
+    },
+    "SURGERY_Lower limp amputations": {
+        "possible_values": [
+            "YES",
+            "NO"
+        ],
+        "values": null
+    },
+    "RENTAL_BLOCK": {
+        "possible_values": [
+            "YES",
+            "NO"
+        ],
+        "values": null
+    },
+    "SURGERY_LL bypass & revascularisation": {
+        "possible_values": [
+            "YES",
+            "NO"
+        ],
+        "values": null
+    },
+    "MEDS_DM_Prescribed": {
+        "possible_values": [
+            "YES",
+            "NO"
+        ],
+        "values": null
+    },
+    "HOUSING_TYPE": {
+        "possible_values": [
+            "YES",
+            "NO"
+        ],
+        "values": null
+    },
+    "HYPERCHOLESTEROLAEMIA": {
+        "possible_values": [
+            "YES",
+            "NO"
+        ],
+        "values": null
+    },
+    "TRIGLYCERIDES_SERUM": {
+        "possible_values": []
+    },
+    "CHOLESTEROL_HDL_SERUM": {
+        "possible_values": []
+    },
+    "OUTCOME_PCI": {
+        "possible_values": []
+    },
+    "LDL (CALCULATED)": {
+        "possible_values": []
+    },
+    "BMI": {
+        "possible_values": []
+    },
+    "GLUCOSE_(FASTING)_PLASMA": {
+        "possible_values": []
+    },
+    "Urine Protein/Cre Ratio": {
+        "possible_values": []
+    },
+    "LAB_POTASSIUM_SERUM": {
+        "possible_values": []
+    },
+    "LAB_UREA_SERUM": {
+        "possible_values": []
+    },
+    "LAB_AST": {
+        "possible_values": []
+    },
+    "GLUCOSE_PLASMA": {
+        "possible_values": []
+    },
+    "HEIGHT_CM": {
+        "possible_values": []
+    },
+    "Protein/Creatinine Ratio": {
+        "possible_values": []
+    },
+    "DIABETES_DIAGNOSIS_YEAR": {
+        "possible_values": []
+    },
+    "BLOOD_PRESSURE_SYSTOLIC": {
+        "possible_values": []
+    },
+    "LAB_MICROALB_CREATININE_RATIO_URINE": {
+        "possible_values": []
+    },
+    "Protein Creatinine Ratio": {
+        "possible_values": []
+    },
+    "HBA1c_blood": {
+        "possible_values": []
+    },
+    "LAB_PLATELET": {
+        "possible_values": []
+    },
+    "OUTCOME_HOSPITALISATION_HF": {
+        "possible_values": []
+    },
+    "BLOOD_PRESSURE_DIASTOLIC": {
+        "possible_values": []
+    },
+    "LAB_CREATININE_SERUM": {
+        "possible_values": []
+    },
+    "WEIGHT_KG": {
+        "possible_values": []
+    },
+    "AGE": {
+        "possible_values": []
+    },
+    "LAB_ALT": {
+        "possible_values": []
+    },
+    "LAB_CK": {
+        "possible_values": []
+    },
+    "Glycosylated Haemoglobin Alc": {
+        "possible_values": []
+    },
+    "Protein_(24-hour)_urine": {
+        "possible_values": []
+    },
+    "LAB_ALBUMIN_SERUM": {
+        "possible_values": []
+    },
+    "GLUCOSE_(FASTING)_SERUM": {
+        "possible_values": []
+    },
+    "OUTCOME_CABG": {
+        "possible_values": []
+    },
+    "LAB_NT-PROBNP_SERUM": {
+        "possible_values": []
+    },
+    "CHOLESTEROL_TOTAL_SERUM": {
+        "possible_values": []
+    },
+    "GLUCOSE_PLASMA_FASTING": {
+        "possible_values": []
+    },
+    "CHOLESTEROL_LDL_CALC": {
+        "possible_values": []
+    },
+    "HbA1C (NGSP)": {
+        "possible_values": []
+    },
+    "GLUCOSE_SERUM": {
+        "possible_values": []
+    },
+    "LDL_CHOLESTEROL_DIRECT_SERUM": {
+        "possible_values": []
+    },
+    "HEARTRATE": {
+        "possible_values": []
+    },
+    "LAB_GGT": {
+        "possible_values": []
+    }
+}
